@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap');
+
+nav{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: x-large;
+}
+.header{
+    font-size: 32px;
+    text-decoration: none;
+    color: #ffff;
+    font-weight: bold;
+}
+.header:hover{
+    color: #ffff;
+}
